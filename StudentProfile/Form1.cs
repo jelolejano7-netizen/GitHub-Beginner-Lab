@@ -40,7 +40,7 @@ namespace StudentProfile
 
         private void btnEnter_Click_1(object sender, EventArgs e)
         {
-            MessageBox.Show("Contact Number: 09081154704");
+            MessageBox.Show("Contact Number: 09081154704","Profile");
         }
     }
 }
